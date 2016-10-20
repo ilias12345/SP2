@@ -10,6 +10,7 @@ public class GitTest {
 		System.out.print("Juan is triggered");
 		System.out.print("halloooo");
 		System.out.println("Sebas G nog hier");
+		
 	}
 
 }
