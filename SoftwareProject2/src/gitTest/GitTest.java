@@ -15,6 +15,7 @@ public class GitTest {
 		System.out.println("Denis was here.");
 		System.out.println("JavaaaArtur");
 		System.out.println("Last time");
+		System.out.println(":D");
 	}
 
 }
