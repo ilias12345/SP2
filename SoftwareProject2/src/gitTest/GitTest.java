@@ -11,6 +11,7 @@ public class GitTest {
 		System.out.print("halloooo");
 		System.out.println("Sebas G nog hier");
 		System.out.println("Bruno tijdens skype vergadering");
+		System.out.println("maxime doet ook mee :D");
 	}
 
 }
