@@ -17,6 +17,7 @@ public class GitTest {
 		System.out.println("Last time");
 		System.out.println("Sebas laatste commit");
 		System.out.println(":D");
+		System.out.println("ilias test op pc lokaal!");
 	}
 
 }
